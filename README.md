@@ -110,4 +110,4 @@ Deploy as a web application
 
 ## Author
 
-Karan Tekchandani  
+Chehal Minocha
