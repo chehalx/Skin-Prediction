@@ -33,7 +33,7 @@ The system processes input images and provides real time predictions, making it 
 
 To see the model in action  
 
-https://youtu.be/ajinucjHfJQ  
+[![Watch Demo](https://img.youtube.com/vi/ajinucjHfJQ/0.jpg)](https://youtu.be/ajinucjHfJQ)
 
 ---
 
